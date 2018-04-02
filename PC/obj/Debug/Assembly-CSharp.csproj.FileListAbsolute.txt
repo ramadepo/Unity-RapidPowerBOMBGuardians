@@ -1,0 +1,116 @@
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Facebook.Unity.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Facebook.Unity.Gameroom.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\FacebookNamedPipeClient.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Public\Documents\Unity Projects\FacebookMain\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\FacebookMain\obj\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\FacebookMain\obj\Debug\Assembly-CSharp.pdb
+C:\Users\迪泡\Documents\Unity\FacebookMain\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\迪泡\Documents\Unity\FacebookMain\obj\Debug\Assembly-CSharp.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Facebook.Unity.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Facebook.Unity.Gameroom.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\FacebookNamedPipeClient.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\nunit.framework.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEditor.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEditor.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\nunit.framework.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\迪泡\Documents\Unity\FacebookMain\obj\Debug\Assembly-CSharp.pdb
+C:\Users\depo\Documents\Unity\FacebookMain\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\depo\Documents\Unity\FacebookMain\obj\Debug\Assembly-CSharp.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\nunit.framework.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEditor.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEditor.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\nunit.framework.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\depo\Documents\Unity\FacebookMain\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\depo\Documents\Unity\FacebookMain\obj\Debug\Assembly-CSharp.pdb
