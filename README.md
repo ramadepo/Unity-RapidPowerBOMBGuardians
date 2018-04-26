@@ -1,4 +1,4 @@
-RapidPowerBOMBGuardians
+About Rapid Power BOMB Guardians
 ===
 It's a case of game design for promote Grap King Bio's activity
 
