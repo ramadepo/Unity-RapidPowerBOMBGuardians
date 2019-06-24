@@ -1,6 +1,6 @@
 About Rapid Power BOMB Guardians
 ===
-It's a case of game design for promote Grap King Bio's activity
+It's a case of game design for promote Grap King Bio's activity, implement by **Unity Engine** and **C#**.
 
 - Game program design : 劉冠聲、王瑞安
 
